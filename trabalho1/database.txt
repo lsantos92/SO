@@ -1,0 +1,19 @@
+UNI:11223:Universidade da Beira Interior:Covilha
+UNI:22334:Universidade do Porto:Porto
+UNI:55667:Universidade Nova de Lisboa:Lisboa
+UNI:67789:Universidade de Coimbra:Coimbra
+PROF:1234:Paul:Sistemas Operativos:Universidade da Beira Interior
+PROF:2314:Valderi:Sistemas Operativos:Universidade da Beira Interior
+PROF:4455:Manuela:Tecnologias Multimedia:Universidade Nova de Lisboa
+PROF:5567:Alberto:Matematica:Universidade de Coimbra
+PROF:7665:Simao:Tecnicas de Computacao:Universidade do Porto
+ALU:30646:Luis:Universidade da Beira Interior:Paul
+ALU:32555:Pedro:Universidade do Porto:Simao
+ALU:31444:Antonio:Universidade de Coimbra:Alberto
+DIS:12345:Tecnicas de Computacao:2:2
+DIS:11345:Sistemas Operativos:2:2
+DIS:14333:Matematica:1:1
+DIS:11445:Tecnologias Multimedia:2:2
+DIS:10110:Programacao:1:1
+ALU:32999:Rita:Universidade Nova de Lisboa:Manuela
+UNI:45567:Universade do Algarve:Algarve
